@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zenopay/zenopay-php": "^1.0"
+    }
+}

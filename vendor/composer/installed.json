@@ -1,0 +1,40 @@
+{
+    "packages": [
+        {
+            "name": "zenopay/zenopay-php",
+            "version": "v1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ZenoPay/zenopay-php.git",
+                "reference": "170246b615672d1bea31fc99c9f04bc16f3f31d9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ZenoPay/zenopay-php/zipball/170246b615672d1bea31fc99c9f04bc16f3f31d9",
+                "reference": "170246b615672d1bea31fc99c9f04bc16f3f31d9",
+                "shasum": ""
+            },
+            "time": "2024-07-24T16:06:51+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "ZenoPay\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "A PHP package for ZenoPay payment processing.",
+            "support": {
+                "issues": "https://github.com/ZenoPay/zenopay-php/issues",
+                "source": "https://github.com/ZenoPay/zenopay-php/tree/v1.0.0"
+            },
+            "install-path": "../zenopay/zenopay-php"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

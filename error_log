@@ -1,0 +1,16 @@
+[06-Aug-2024 05:56:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE" in /home/appsnmlp/bongofollowers.com/test.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/appsnmlp/bongofollowers.com/test.php on line 136
+[06-Aug-2024 05:56:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE" in /home/appsnmlp/bongofollowers.com/test.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/appsnmlp/bongofollowers.com/test.php on line 136
+[28-Nov-2024 01:20:56 Africa/Dar_es_Salaam] Processing payment method: zenopay
+[28-Nov-2024 01:20:56 Africa/Dar_es_Salaam] Including payment method file: includes/payment_methods/zenopay.php
+[28-Nov-2024 01:23:51 Africa/Dar_es_Salaam] Processing payment method: zenopay
+[28-Nov-2024 01:23:51 Africa/Dar_es_Salaam] Including payment method file: app/modules/add_funds/controllers/zenopay.php
+[28-Nov-2024 01:25:39 Africa/Dar_es_Salaam] Processing payment method: zenopay
+[28-Nov-2024 01:25:39 Africa/Dar_es_Salaam] Including payment method file: app/modules/add_funds/controllers/zenopay.php
+[28-Nov-2024 01:27:01 Africa/Dar_es_Salaam] Processing payment method: zenopay
+[28-Nov-2024 01:27:01 Africa/Dar_es_Salaam] Including payment method file: app/modules/add_funds/controllers/zenopay.php
